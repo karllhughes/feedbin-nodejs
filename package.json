@@ -1,0 +1,21 @@
+{
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "axios": "^0.15.3"
+  },
+  "deprecated": false,
+  "description": "A nodejs wrapper for feedbin",
+  "devDependencies": {
+    "Faker": "^0.7.2",
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "license": "MIT",
+  "main": "src/index.js",
+  "name": "feedbin-nodejs",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "version": "0.0.2"
+}
